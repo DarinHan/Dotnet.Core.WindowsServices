@@ -1,0 +1,3 @@
+# Dotnet.Core.WindowsServices
+
+WindowsService+
